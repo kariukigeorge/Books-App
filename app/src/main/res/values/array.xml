@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_availability_options">
+        <item>@string/invalid</item>
+        <item>@string/available</item>
+        <item>@string/not_available</item>
+    </string-array>
+</resources>
